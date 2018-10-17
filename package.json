@@ -1,0 +1,16 @@
+{
+  "name": "modem_restart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "g": "^2.0.1",
+    "node-windows": "^0.1.14",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
